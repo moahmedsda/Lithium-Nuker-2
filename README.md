@@ -14,7 +14,7 @@ Lithium does not have a vanity anymore and has not for a long time, anyone that 
 
 Anyways, Lithium is completely dead, and here is a couple tags of impersonators:
 <br>
-verlox#9963 obamium#4521
+vividsec#0001 verlox#3228
 
 # Some braindead messages I've received
 "seems like you dont even know how scripts works"
