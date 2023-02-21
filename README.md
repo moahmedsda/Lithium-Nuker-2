@@ -12,9 +12,12 @@ Lithium does not have a vanity anymore and has not for a long time, anyone that 
 <br>
 **As of 2/20/22, the vanity .gg/lithium is held by some braindead impersonators that believe they're me and vividsec.**
 
-Anyways, Lithium is completely dead, and here is a couple tags of impersonators:
+Anyways, Lithium is completely dead, and here is a couple IDs of impersonators, with a link to their current profile:
 <br>
-vividsec#0001 verlox#3228
+[vividsec#0001](https://discordlookup.com/user/1062792943594909786) [verlox#3228](https://discordlookup.com/user/1064274279954383040)
+
+# Want to report more impersonators?
+Check out the [discussions tab](https://github.com/verlox/Lithium-Nuker-2/discussions)
 
 # Some braindead messages I've received
 "seems like you dont even know how scripts works"
