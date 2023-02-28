@@ -10,7 +10,7 @@ If you see another download of Lithium, expect it to be malware. Lithium itself 
 # Advisories and such
 Lithium does not have a vanity anymore and has not for a long time, anyone that has one, is either impersonating, or has good taste for vanity urls. vividsec and I do not have any vanities relating to Lithium.
 <br>
-**As of 2/20/22, the vanity .gg/lithium is held by some braindead impersonators that believe they're me and vividsec.**
+**As of 2/27/22, the server that previously had the vanity .gg/lithium has been terminated**
 
 Anyways, Lithium is completely dead, and here is a couple IDs of impersonators, with a link to their current profile:
 <br>
